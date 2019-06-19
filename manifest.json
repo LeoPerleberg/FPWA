@@ -2,12 +2,12 @@
   
   "name": "Inteligence",  
   "short_name": "Inteligence", 
-  "theme_color": "#2196f3", 
+  "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "fullscreen", 
   "Scope": "./",
   "start_url": "/FPWA/index.html", 
-  
+
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
